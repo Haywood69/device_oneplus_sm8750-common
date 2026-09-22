@@ -58,6 +58,7 @@ PRODUCT_PACKAGES += \
     libhotword_intf \
     libpaleventnotifier \
     libpalipcservice \
+    libperfmgr.vendor \
     libqcompostprocbundle \
     libqcomvisualizer \
     libqcomvoiceprocessing \
